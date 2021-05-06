@@ -1,4 +1,3 @@
-# PHP-Projem 
-film öneri sitesi
+Movie Recommendation Website
 
-hosting süresi dolduğu için sadece kodlara erişilebilir sitesye giriş yapılsmıyor
+hosting süresi dolduğu için sadece kodlara erişilebilir sitesye giriş yapılamıyor
